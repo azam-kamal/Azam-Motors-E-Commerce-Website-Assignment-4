@@ -1,0 +1,129 @@
+body{
+    background-color:#212121;
+
+        padding-top: 70px;
+      
+}
+
+.indexx{
+    background-color: white !important;
+}
+.navbar{
+    
+    background-color: #212121!Important;
+}
+
+.nav-link{
+    color: white !Important;
+    font-weight: bold;
+}
+.fa-phone-square,.fa-address-book{
+    font-size: x-large !important;
+}
+.head1{
+    color:black;
+}
+.Latest,.instock{
+    margin-top: 2%;
+    margin-bottom:  2%;
+    text-align: center;
+    
+}
+.marq{
+    
+    color: white;
+    background-color:#212121 ;
+    margin-top: 5px;
+}
+.container{
+    margin-top: 2%;
+}
+.page-footer{
+    background-color: #212121;
+    color: white;
+}
+.card-img-top{
+    height: 150px;
+}
+.nav11{
+    text-align: center !important;
+    background-color: white !important;
+    color: black !important;
+}
+.appoint{
+    margin-top: 5% !important;
+    margin-right: 10%3  !important;
+}
+.formm{
+margin-top: 20px;
+margin-left: 40px;
+margin-right: 40px;
+color: white;
+}
+.heading-appoint{
+    margin-bottom: 20px;
+}
+.about{
+    margin-top: 30px;
+    background-color:#212121 ;
+    overflow:hidden;
+    margin-bottom: 40px;
+}
+.para{
+    
+    text-align: center;
+    background-color: #212121 ;
+    color: white;
+}
+.content{
+    border: white ;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+}
+.cities{
+    overflow:hidden;
+    justify-content: center;
+    text-align: center;
+}
+.logo-pic{
+    text-align: center;
+    margin-top: 40 px;
+    margin-bottom: 20px;
+}
+
+div.gallery {
+    margin: 5px;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+    color: white;
+  }
+  .slidee{
+    overflow:hidden;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  .audi-head{
+      text-align: center;
+  }
